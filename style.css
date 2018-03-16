@@ -163,6 +163,12 @@ body{background:url(Background1.jpg
 background-attachment:fixed;
 background-size:cover;
 }
+#logo{
+  width: 15%;
+  height: auto;
+  position: relative;
+
+}
 #container_demo{
 	 text-align: left;
 	 margin: 0;
