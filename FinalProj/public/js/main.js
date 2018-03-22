@@ -9,7 +9,7 @@ function login()
 {
 	var userEmail = document.getElementById("username").value;
 	var userPass = document.getElementById("password").value;
-	location.href = "http://localhost:8080";
+	location.href = "http://localhost:8080/dashboard.html";
 }
 function logout()
 {
