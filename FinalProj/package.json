@@ -1,0 +1,17 @@
+{
+  "name": "final-proj",
+  "version": "0.0.0",
+  "description": "FinalProj",
+  "main": "app.js",
+  "author": {
+    "name": "alexkas"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "client-sessions": "^0.8.0",
+    "express": "^4.16.3",
+    "mssql": "^4.1.0",
+    "path": "^0.12.7",
+    "sqlstring": "^2.3.1"
+  }
+}
